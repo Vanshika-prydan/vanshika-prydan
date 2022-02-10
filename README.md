@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as front-end devloper at [Prydan Consultancy](https://prydan.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently Working on **React Native**
 
 - 💬 Ask me about **Material-UI,TypeScript, reactjs, HTML, CSS, Javascript,Bootstrap and more all.**
 
