@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vanshika Dobariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-💫 About Me:
+- # :dizzy: About Me:
 🔭 I’m currently working as a front-end developer at Prydan Consultancy<br>👯 I’m looking to collaborate on a visa-versa client<br>🌱 I’m currently working with react developer<br>💬 Ask me about Material-UI, TypeScript, react js, react-native, HTML, CSS, Javascript, Bootstrap, and more.<br>⚡ Developers in the gaming industry are the happiest
 
 
